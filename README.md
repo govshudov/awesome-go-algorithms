@@ -4,6 +4,10 @@ A curated collection of generic data structures and concurrency patterns in idio
 
 Zero external dependencies. Standard library only. Go 1.22+ generics throughout.
 
+## Requirements
+
+- Go 1.22 or newer (generics + `range over int`)
+
 ## Install
 
 ```bash
